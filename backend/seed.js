@@ -9,7 +9,7 @@ dotenv.config();
 const products = [
   {
     name: 'Wooden Dining Table',
-    image: 'https://via.placeholder.com/300x200?text=Wooden+Dining+Table',
+    image: '/uploads/Wooden_Table.jpg',
     brand: 'FurnitureCo',
     quantity: 25,
     category: '60e9bfa6d9b76f001f2d0f17', // Replace with valid category ObjectId
@@ -29,7 +29,7 @@ const products = [
   },
   {
     name: 'Modern Office Chair',
-    image: 'https://via.placeholder.com/300x200?text=Modern+Office+Chair',
+    image: '/uploads/OfficeChair.webp',
     brand: 'OfficeMaster',
     quantity: 15,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -49,7 +49,7 @@ const products = [
   },
   {
     name: 'Leather Sofa',
-    image: 'https://via.placeholder.com/300x200?text=Leather+Sofa',
+    image: '/uploads/leather_sofa.jpg',
     brand: 'FurniLux',
     quantity: 30,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -69,7 +69,7 @@ const products = [
   },
   {
     name: 'Coffee Table',
-    image: 'https://via.placeholder.com/300x200?text=Coffee+Table',
+    image: '/uploads/coffe_table.jpg',
     brand: 'TableWorks',
     quantity: 50,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -89,7 +89,7 @@ const products = [
   },
   {
     name: 'Folding Dining Chair',
-    image: 'https://via.placeholder.com/300x200?text=Folding+Dining+Chair',
+    image: '/uploads/dining-table.jpg',
     brand: 'FurnitureCo',
     quantity: 10,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -109,7 +109,7 @@ const products = [
   },
   {
     name: 'Wooden Bed Frame',
-    image: 'https://via.placeholder.com/300x200?text=Wooden+Bed+Frame',
+    image: '/uploads/wooden-bed-chair.jpg',
     brand: 'SleepBetter',
     quantity: 20,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -129,7 +129,7 @@ const products = [
   },
   {
     name: 'Bookshelf',
-    image: 'https://via.placeholder.com/300x200?text=Bookshelf',
+    image: '/uploads/bookshelf.jpg',
     brand: 'WoodWorks',
     quantity: 40,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -149,7 +149,7 @@ const products = [
   },
   {
     name: 'Nightstand',
-    image: 'https://via.placeholder.com/300x200?text=Nightstand',
+    image: '/uploads/diningchairset.jpg',
     brand: 'FurniLux',
     quantity: 30,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -169,7 +169,7 @@ const products = [
   },
   {
     name: 'Dining Chair Set',
-    image: 'https://via.placeholder.com/300x200?text=Dining+Chair+Set',
+    image: '/uploads/diningchairset.jpg',
     brand: 'FurnitureCo',
     quantity: 20,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -189,7 +189,7 @@ const products = [
   },
   {
     name: 'Sectional Sofa',
-    image: 'https://via.placeholder.com/300x200?text=Sectional+Sofa',
+    image: '/uploads/sectionalsofa.webp',
     brand: 'FurniLux',
     quantity: 12,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -209,7 +209,7 @@ const products = [
   },
   {
     name: 'Dining Table Set',
-    image: 'https://via.placeholder.com/300x200?text=Dining+Table+Set',
+    image: '/uploads/dining-table.jpg',
     brand: 'FurnitureCo',
     quantity: 10,
     category: '60e9bfa6d9b76f001f2d0f17',
@@ -229,7 +229,7 @@ const products = [
   },
   {
     name: 'Storage Bench',
-    image: 'https://via.placeholder.com/300x200?text=Storage+Bench',
+    image: '/uploads/storage_bench.webp',
     brand: 'StoragePlus',
     quantity: 25,
     category: '60e9bfa6d9b76f001f2d0f17',

@@ -72,7 +72,7 @@ const AllProducts = () => {
                             />
                           </svg>
                         </Link>
-                        <p>$ {product?.price}</p>
+                        <p>R {product?.price}</p>
                       </div>
                     </div>
                   </div>
